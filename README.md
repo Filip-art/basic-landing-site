@@ -1,1 +1,1 @@
-# quicksite
+basic landing site
